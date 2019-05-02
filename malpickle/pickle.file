@@ -1,0 +1,15 @@
+cposix
+system
+p0
+(S'echo RCE\n'
+p0
+tp1
+Rcposix
+system
+p0
+(S'echo RCE\n'
+p0
+tp1
+RS'innocent test string'
+p0
+.

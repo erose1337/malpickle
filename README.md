@@ -1,5 +1,5 @@
 # malpickle
-Insert code into pickles
+Insert code into pickle files and streams. Pickle streams are serialized python objects.
 
 How to use as a library:
 
